@@ -62,7 +62,7 @@ async def start(b, m):
                 [
                     [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ⚡", url="https://t.me/skmovieslinks"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/skmovieslinks")],
                     [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/skymovieshdlinks"), InlineKeyboardButton("💎 HINDI TV SHOWS 💎", url="https://t.me/Serials_Before_Tv")],
-                    [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/KWICVER2bot")]
+                    [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/mkvCinemastg_Bot")]
                 ]
             ),
             
