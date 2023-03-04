@@ -1,1 +1,1 @@
-python3
+python -m Adarsh
