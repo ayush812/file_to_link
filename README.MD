@@ -50,7 +50,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the button and make ytml folder and deploy on Render
 
-<a href="https://render.com/deploy?repo=https://github.com/KWICBOTS/kwichighspeedbot">
+<a href="https://render.com/deploy?repo=https://github.com/ayush812/file_to_link">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
